@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f73657715bba444b938fb7a7a3070b, type: 3}
+  m_Name: JellyData 3
+  m_EditorClassIdentifier: 
+  unlockJelly: 0
+  jellyPrefab: {fileID: 5391272212297795529, guid: 55aba465cc96aba41b34e19508abd4cc, type: 3}
+  jellyImage: {fileID: 21300000, guid: ce60f325abe16e1408f2d226e825c21a, type: 3}
+  jellyName: Jelly3
+  price: 1000
+  exp: 300
+  maxExp: 5000
+  jelatin: 500000
+  gold: 50000000
